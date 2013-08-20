@@ -1,6 +1,6 @@
 hello
 
-my name is Dan 
+Our names are Dan and Bob 
 
 what is up 
 how are you doing
